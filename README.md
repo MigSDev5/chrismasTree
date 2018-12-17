@@ -4,11 +4,11 @@ All Trader zones and big cities on Chernarus..</b>
 
 In init.sqf after</b>
 
-    if (isServer) then {</b>
+    if (isServer) then {
 
 add</b>
 
-    [] execVM "christmas\init.sqf";</b>
+    [] execVM "christmas\init.sqf";
     
 Download files and put in your mission folder.</b>
 
